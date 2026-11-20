@@ -18,15 +18,15 @@ This project cleans, analyzes and visualizes Ontario's open data on Repayment As
 
 **Overview:** Ontario RAP rate, rate by sector, and top 10 institutions
 
-![Overview page](page1.png)
+![Overview page](Overview.png)
 
 **Drill Down:** decomposition tree from sector to institution
 
-![Drill down page](drilldown.png)
+![Drill down page](DrillDown.png)
 
 **Thunder Bay vs Ontario:** local institutions compared with the provincial average
 
-![Thunder Bay page](thunderbay.png)
+![Thunder Bay page](Thunder%20Bay.png)
 
 ## Process
 
